@@ -1,2 +1,2 @@
 tesla webpage cloning project
-done using html amd css
+done using html and css
